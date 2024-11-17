@@ -27,7 +27,7 @@ class GameEngine {
         void run_menu();
         bool running();
         void update();
-        void draw();
+        void drawAll();
         void run_game_over();
 
     public:
